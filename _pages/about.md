@@ -26,6 +26,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 
 # News
+- *2024.09*: I am invited to serve as a reviewer for ICASSP 2025!
 - *2024.08*: I am invited to serve as a reviewer for ICLR 2025!
 - *2024.07*: I am joining [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern!
 - *2024.05*: I am invited to serve as a reviewer for NeurIPS 2024!
@@ -107,5 +108,5 @@ hspace="20" wspace="10" src="../images/DSN.png">
   
 # Academic Service
 - Chair of ECCV 2024 Workshop: The First Dataset Distillation Challenge.
-- Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025.
+- Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025, ICASSP 2025.
 
