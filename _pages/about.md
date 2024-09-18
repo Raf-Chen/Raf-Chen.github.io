@@ -32,7 +32,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 - *2024.05*: I am invited to serve as a reviewer for NeurIPS 2024!
 - *2024.05*: I am invited to serve as a reviewer for ACM MM 2024!
 - *2024.05*: [GEOM](https://arxiv.org/abs/2402.05011), the first lossless graph condensation approach is accepted by ICML 2024!
-- *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://dd-challenge-main.vercel.app/) got accepted at ECCV 2024 as a half-day workshop!
+- *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/) got accepted at ECCV 2024 as a half-day workshop!
 - *2023.10*: I win the HuaMeng Scholarship (10k RMB) and First-class Scholarship (2k RMB) for the second time!
 - *2023.09*: [DSN](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf), the first approach achieved positive BWT, is accepted by NeurIPS 2023!
 
@@ -102,11 +102,11 @@ hspace="20" wspace="10" src="../images/DSN.png">
 - *2024.05*, "Lossless Graph Condensation" on [Techbeat](https://www.techbeat.net/talk-info?id=873).
 
 # Working Experiences
-- *2022.10 - 2023.6*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
-- *2023.6 - 2024.7*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
-- *2024.8 - present*, Shanghai AI Lab.
+- *2022.10 - 2023.06*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
+- *2023.06 - 2024.07*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
+- *2024.08 - present*, Shanghai AI Lab.
   
 # Academic Service
-- Chair of ECCV 2024 Workshop: The First Dataset Distillation Challenge.
+- Chair of ECCV 2024 Workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/).
 - Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025, ICASSP 2025.
 
