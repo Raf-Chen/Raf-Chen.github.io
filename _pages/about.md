@@ -19,11 +19,16 @@ redirect_from:
 
 # About me
 
-Hi there! I am a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/), Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/) and Prof. [Yuxuan Liang](https://yuxuanliang.com/).
+Hi there! 
 
-My research primarily focuses on Efficient Learning (Knowledge Distillation and Model Compression) and Data-centric AI (Dataset Distillation and Data Selection). 
-Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
+I am a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/), Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/) and Prof. [Yuxuan Liang](https://yuxuanliang.com/).
 
+# Research Interests
+
+- *Efficient Learning：* Knowledge Distillation; Model Pruning.
+- *Data-centric AI：* Dataset Distillation; Data Selection.
+
+I am currently interested in the application of the above topics in LLM. Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
 
 # News
 - *2024.09*: I am invited to serve as a reviewer for ICASSP 2025!
@@ -102,9 +107,9 @@ hspace="20" wspace="10" src="../images/DSN.png">
 - *2024.05*, "Lossless Graph Condensation" on [Techbeat](https://www.techbeat.net/talk-info?id=873).
 
 # Working Experiences
-- *2022.10 - 2023.06*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
-- *2023.06 - 2024.07*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
 - *2024.08 - present*, Shanghai AI Lab.
+- *2023.06 - 2024.07*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
+- *2022.10 - 2023.06*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
   
 # Academic Service
 - Chair of ECCV 2024 Workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/).
