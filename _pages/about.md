@@ -31,6 +31,7 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 I am currently interested in the application of the above topics in LLM. Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
 
 # News
+- *2024.09*: I am invited to serve as a reviewer for AISTATS 2025!
 - *2024.09*: Two papers are accepted by NeurIPS 2024. Congrats to Guibin and Tianle!
 - *2024.09*: I am invited to serve as a reviewer for ICASSP 2025!
 - *2024.08*: I am invited to serve as a reviewer for ICLR 2025!
@@ -114,5 +115,5 @@ hspace="20" wspace="10" src="../images/DSN.png">
   
 # Academic Service
 - Chair of ECCV 2024 Workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/).
-- Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025, ICASSP 2025.
+- Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025, ICASSP 2025, AISTATS 2025.
 
