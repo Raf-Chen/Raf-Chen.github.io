@@ -72,7 +72,38 @@ hspace="20" wspace="10" src="../images/DSN.png">
 <dd>Qiang Gao, Xiaojun Shan, <strong><u>Yuchen Zhang</u></strong>, Fan Zhou</dd>
     <dd><strong> Advances in Neural Information Processing Systems (NeurIPS), 2023. </strong></dd>
 </dl>
+<br/>
+<br/>
+<br/>
 
+---
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="20" wspace="10" src="../images/gder.png">
+</dt>
+  <dd><a href="">
+    <strong>GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning
+</strong></a></dd>
+<dd>Guibin Zhang, Haonan Dong, <strong><u>Yuchen Zhang</u></strong>, Zhixun Li, Dingshuo Chen, Kai Wang, Tianlong Chen, Yuxuan Liang, Dawei Cheng, Kun Wang</dd>
+    <dd><strong> Advances in Neural Information Processing Systems (NeurIPS), 2024. </strong></dd>
+</dl>
+<br/>
+<br/>
+<br/>
+
+---
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="20" wspace="10" src="../images/T2VHE.png">
+</dt>
+  <dd><a href="https://arxiv.org/abs/2406.08845">
+    <strong>Rethinking Human Evaluation Protocol for Text-to-Video Models: Enhancing Reliability, Reproducibility, and Practicality
+</strong></a></dd>
+<dd>Tianle Zhang, Langtian Ma, Yuchen Yan, <strong><u>Yuchen Zhang</u></strong>, Kai Wang, Yue Yang, Ziyao Guo, Wenqi Shao, Yang You, Yu Qiao, Ping Luo, Kaipeng Zhang</dd>
+    <dd><strong> Advances in Neural Information Processing Systems (NeurIPS), 2024. </strong></dd>
+</dl>
 
     
 <br/>
