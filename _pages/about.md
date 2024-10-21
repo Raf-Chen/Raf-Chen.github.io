@@ -31,6 +31,7 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 I am currently interested in the application of the above topics in LLM. Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
 
 # News
+- *2024.10*: I am admitted to [Peking University](https://www.pku.edu.cn/) as the 1st candidate in the pre-recommendation. I will pursue a joint Ph.D. program between [Peking University](https://www.pku.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/) in 25 Fall.
 - *2024.09*: I am invited to serve as a reviewer for AISTATS 2025!
 - *2024.09*: Two papers are accepted by NeurIPS 2024. Congrats to Guibin and Tianle!
 - *2024.09*: I am invited to serve as a reviewer for ICASSP 2025!
