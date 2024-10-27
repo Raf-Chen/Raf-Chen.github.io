@@ -21,14 +21,8 @@ redirect_from:
 
 Hi there! 
 
-I am a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Young Presidential Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/), Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/) and Prof. [Yuxuan Liang](https://yuxuanliang.com/).
+I am a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also worked with Dr. [Kai Wang](https://kaiwang960112.github.io/), Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/) and Prof. [Yuxuan Liang](https://yuxuanliang.com/).
 
-# Research Interests
-
-- *Efficient Learning：* Knowledge Distillation; Model Pruning.
-- *Data-centric AI：* Dataset Distillation; Data Selection.
-
-I am currently interested in the application of the above topics in LLM. Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
 
 # News
 - *2024.09*: I am invited to serve as a reviewer for AISTATS 2025!
