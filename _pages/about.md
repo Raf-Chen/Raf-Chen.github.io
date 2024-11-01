@@ -134,9 +134,9 @@ hspace="20" wspace="10" src="../images/T2VHE.png">
 - *2024.05*, "Lossless Graph Condensation" on [Techbeat](https://www.techbeat.net/talk-info?id=873).
 
 # Working Experiences
-- *2024.08 - present*, Shanghai AI Lab.
-- *2023.06 - 2024.07*, HPC-AI Lab, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/), NUS.
-- *2022.10 - 2023.06*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
+- *2024.10 - present*, Shanghai AI Lab, advised by Prof. [Yu Cheng](https://ych133.github.io/).
+- *2023.06 - 2024.07*, HPC-AI Lab, NUS, advised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/).
+- *2022.10 - 2023.06*, ICDM Lab, UESTC, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN).
   
 # Academic Service
 - Organizer of ECCV 2024 Workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/).
