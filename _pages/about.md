@@ -139,6 +139,6 @@ hspace="20" wspace="10" src="../images/T2VHE.png">
 - *2022.10 - 2023.06*, ICDM Lab, advised by Prof. [Fan Zhou](https://scholar.google.com/citations?user=Ihj2Rw8AAAAJ&hl=zh-CN), UESTC.
   
 # Academic Service
-- Chair of ECCV 2024 Workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/).
+- Organizer of ECCV 2024 Workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/).
 - Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025, ICASSP 2025, AISTATS 2025.
 
