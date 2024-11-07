@@ -25,6 +25,7 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 
 
 # News
+- *2024.10*：I win the the UESTC-Friendship Scholarship (10K RMB). I also won the first-class scholarship (2k RMB) for the third time.
 - *2024.10*: I am selected as an Outstanding Graduate of UESTC and an Outstanding Graduate of Sichuan Province.
 - *2024.09*: I am invited to serve as a reviewer for AISTATS 2025.
 - *2024.09*: Two papers are accepted by NeurIPS 2024. Congrats to Guibin and Tianle!
@@ -35,7 +36,7 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 - *2024.05*: I am invited to serve as a reviewer for ACM MM 2024.
 - *2024.05*: [GEOM](https://arxiv.org/abs/2402.05011), the first lossless graph condensation approach is accepted by ICML 2024!
 - *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/) got accepted at ECCV 2024 as a half-day workshop!
-- *2023.10*: I win the HuaMeng Scholarship (10k RMB) and First-class Scholarship (2k RMB) for the second time.
+- *2023.10*: I win the UESTC-Friendship (HuaMeng) Scholarship (10k RMB). I also won the first-class scholarship (2k RMB) for the second time.
 - *2023.09*: [DSN](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf), the first approach achieved positive BWT, is accepted by NeurIPS 2023!
 
 
@@ -110,6 +111,10 @@ hspace="20" wspace="10" src="../images/T2VHE.png">
 
 # Honors and Awards
 
+- *2024-10* UESTC-Friendship Scholarship (10K RMB) 
+
+- *2024-10* First-class Scholarship
+
 - *2024-10* Outstanding Graduate of Sichuan Province
 
 - *2024-10* Outstanding Graduate of UESTC
@@ -118,7 +123,7 @@ hspace="20" wspace="10" src="../images/T2VHE.png">
 
 - *2024-05* Provincial Second Prize, 17th China	Collegiate Computing Competition
 
-- *2023-10* HuaMeng	Scholarship (Award rate: 0.2%) 
+- *2023-10* UESTC-Friendship (HuaMeng)	Scholarship
 
 - *2023-10* First-class Scholarship
 
