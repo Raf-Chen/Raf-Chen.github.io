@@ -25,7 +25,7 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 
 
 # News
-- *2024.10*：I win the the UESTC-Friendship Scholarship (10K RMB). I also won the first-class scholarship (2k RMB) for the third time.
+- *2024.10*：I win the the UESTC-Friendship Scholarship (10K RMB). I also win the first-class scholarship (2k RMB) for the third time.
 - *2024.10*: I am selected as an Outstanding Graduate of UESTC and an Outstanding Graduate of Sichuan Province.
 - *2024.09*: I am invited to serve as a reviewer for AISTATS 2025.
 - *2024.09*: Two papers are accepted by NeurIPS 2024. Congrats to Guibin and Tianle!
