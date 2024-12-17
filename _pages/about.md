@@ -25,7 +25,7 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 
 
 # News
-<div style="max-height: 200px; overflow-y: auto;">
+<div style="max-height: 300px; overflow-y: auto;">
 <ul>
 - *2024.12*：I am invited to serve as a reviewer for ICML 2025.
 - *2024.12*：I win **The Most Outstanding Students Award of UESTC** (**The Highest Honor** for UESTC students, **Top 10** among all 5500+ undergraduate students, 10k RMB)!
