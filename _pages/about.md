@@ -25,7 +25,8 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 
 
 # News
-- *2024.12*：I win **The Most Outstanding Students Award of UESTC** (The Highest Honor for UESTC students, **Top 10** among all 5500+ undergraduate students, 10k RMB)!
+- *2024.12*：I am invited to serve as a reviewer for ICML 2025.
+- *2024.12*：I win **The Most Outstanding Students Award of UESTC** (**The Highest Honor** for UESTC students, **Top 10** among all 5500+ undergraduate students, 10k RMB)!
 - *2024.10*：I win the the UESTC-Friendship Scholarship (10K RMB). I also win the first-class scholarship (2k RMB) for the third time.
 - *2024.10*: I am selected as an Outstanding Graduate of UESTC and an Outstanding Graduate of Sichuan Province.
 - *2024.09*: I am invited to serve as a reviewer for AISTATS 2025.
@@ -152,5 +153,5 @@ hspace="20" wspace="10" src="../images/T2VHE.png">
   
 # Academic Service
 - Organizer of ECCV 2024 Workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/).
-- Reviewer of WWW 2024, NeurIPS 2024, ACM MM 2024, ICLR 2025, ICASSP 2025, AISTATS 2025.
+- Reviewer of NeurIPS 2024, ICML 2025, ICLR 2025, WWW 2024, ACM MM 2024, ICASSP 2025, AISTATS 2025.
 
