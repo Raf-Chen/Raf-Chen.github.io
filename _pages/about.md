@@ -8,37 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  dl {
-    margin-bottom: 60px; 
-    clear: both;
-  }
-
-  img {
-    display: block;
-    margin: 0px 10px 10px 0px; 
-    max-width: 100%;
-  }
-
-  hr {
-    border: 1px solid #ebebeb; 
-    /* margin: 10px;  */
-    clear: both; 
-  }
-
-
-  dl dd {
-  margin-top: 5px; 
-  margin-bottom: 5px;
-}
-
-  dl dd strong {
-  font-weight: bold;
-  color: black;
-  }
-
-</style>
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -46,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+
 # About me
 
 Hi there! 
