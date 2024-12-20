@@ -8,6 +8,42 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  dl {
+    margin-bottom: 60px; 
+    clear: both;
+  }
+
+  img {
+    display: block;
+    margin: 0px 10px 10px 0px; 
+    max-width: 100%;
+  }
+
+  hr {
+    border: 1px solid #ebebeb; 
+    /* margin: 10px;  */
+    clear: both; 
+  }
+
+
+  dl dd {
+  margin-top: 5px; 
+  margin-bottom: 5px;
+}
+
+  dl dd strong {
+  font-weight: bold;
+  color: black;
+  }
+
+
+  .co-first {
+    color: red;
+  }
+
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -16,7 +52,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 # About me
 
 Hi there! 
@@ -25,8 +60,6 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 
 
 # News
-<div style="max-height: 200px; overflow-y: auto;">
-<ul>
 - *2024.12*：I am invited to serve as a reviewer for ICML 2025.
 - *2024.12*：I win **The Most Outstanding Students Award of UESTC** (**The Highest Honor** for UESTC students, **Top 10** among all 5500+ undergraduate students, 10k RMB)!
 - *2024.10*：I win the UESTC-Friendship Scholarship (10K RMB). I also win the first-class scholarship (2k RMB) for the third time.
@@ -42,10 +75,6 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 - *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/) got accepted at ECCV 2024 as a half-day workshop!
 - *2023.10*: I win the UESTC-Friendship (HuaMeng) Scholarship (10k RMB). I also won the first-class scholarship (2k RMB) for the second time.
 - *2023.09*: [DSN](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf), the first approach achieved positive BWT, is accepted by NeurIPS 2023!
-</ul>
-</div>
-
-<br/>
 
 
 
