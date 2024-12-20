@@ -125,7 +125,6 @@ hspace="20" wspace="10" src="../images/T2VHE.png">
 
 - *2024-05* Provincial Second Prize, 17th China	Collegiate Computing Competition
 
-- *2023-10* UESTC-Friendship (HuaMeng)	Scholarship
 - *2023-10* UESTC-Friendship (HuaMeng)	Scholarship (10k RMB)
 
 - *2023-10* First-class Scholarship
