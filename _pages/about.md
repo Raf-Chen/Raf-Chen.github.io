@@ -37,11 +37,6 @@ redirect_from:
   color: black;
   }
 
-
-  .co-first {
-    color: red;
-  }
-
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
