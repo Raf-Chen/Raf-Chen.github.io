@@ -25,25 +25,23 @@ I am a 4th-year undergraduate student at the University of Electronic Science an
 
 
 # News
-<div style="max-height: 200px; overflow-y: auto;">
-<ul>
-   - *2024.12*：I am invited to serve as a reviewer for ICML 2025.
-   - *2024.12*：I win **The Most Outstanding Students Award of UESTC** (The Highest Honor for UESTC students, **Top 10** among all 5500+ undergraduate students, 10k RMB)!
-   - *2024.10*：I win the the UESTC-Friendship Scholarship (10K RMB). I also win the first-class scholarship (2k RMB) for the third time.
-   - *2024.10*: I am selected as an Outstanding Graduate of UESTC and an Outstanding Graduate of Sichuan Province.
-   - *2024.09*: I am invited to serve as a reviewer for AISTATS 2025.
-   - *2024.09*: Two papers are accepted by NeurIPS 2024. Congrats to Guibin and Tianle!
-   - *2024.09*: I am invited to serve as a reviewer for ICASSP 2025.
-   - *2024.08*: I am invited to serve as a reviewer for ICLR 2025.
-   - *2024.07*: I am joining [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern.
-   - *2024.05*: I am invited to serve as a reviewer for NeurIPS 2024.
-   - *2024.05*: I am invited to serve as a reviewer for ACM MM 2024.
-   - *2024.05*: [GEOM](https://arxiv.org/abs/2402.05011), the first lossless graph condensation approach is accepted by ICML 2024!
-   - *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/) got accepted at ECCV 2024 as a half-day workshop!
-   - *2023.10*: I win the UESTC-Friendship (HuaMeng) Scholarship (10k RMB). I also won the first-class scholarship (2k RMB) for the second time.
-   - *2023.09*: [DSN](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf), the first approach achieved positive BWT, is accepted by NeurIPS 2023!
-</ul>
-</div>
+
+- *2024.12*：I am invited to serve as a reviewer for ICML 2025.
+- *2024.12*：I win **The Most Outstanding Students Award of UESTC** (The Highest Honor for UESTC students, **Top 10** among all 5500+ undergraduate students, 10k RMB)!
+- *2024.10*：I win the the UESTC-Friendship Scholarship (10K RMB). I also win the first-class scholarship (2k RMB) for the third time.
+- *2024.10*: I am selected as an Outstanding Graduate of UESTC and an Outstanding Graduate of Sichuan Province.
+- *2024.09*: I am invited to serve as a reviewer for AISTATS 2025.
+- *2024.09*: Two papers are accepted by NeurIPS 2024. Congrats to Guibin and Tianle!
+- *2024.09*: I am invited to serve as a reviewer for ICASSP 2025.
+- *2024.08*: I am invited to serve as a reviewer for ICLR 2025.
+- *2024.07*: I am joining [Shanghai AI Laboratory](https://www.shlab.org.cn/) as a research intern.
+- *2024.05*: I am invited to serve as a reviewer for NeurIPS 2024.
+- *2024.05*: I am invited to serve as a reviewer for ACM MM 2024.
+- *2024.05*: [GEOM](https://arxiv.org/abs/2402.05011), the first lossless graph condensation approach is accepted by ICML 2024!
+- *2024.05*: Our workshop: [The First Dataset Distillation Challenge](https://www.dd-challenge.com/) got accepted at ECCV 2024 as a half-day workshop!
+- *2023.10*: I win the UESTC-Friendship (HuaMeng) Scholarship (10k RMB). I also won the first-class scholarship (2k RMB) for the second time.
+- *2023.09*: [DSN](https://proceedings.neurips.cc/paper_files/paper/2023/file/d7b3cef7c31b94a4a533db83d01a8882-Paper-Conference.pdf), the first approach achieved positive BWT, is accepted by NeurIPS 2023!
+
 
 # Publications ([Full List](https://scholar.google.com/citations?user=Y2oqeP0AAAAJ&hl=zh-CN))
 
