@@ -21,8 +21,9 @@ redirect_from:
 
 Hi there! 
 
-I am a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/). I also worked with Dr. [Kai Wang](https://kaiwang960112.github.io/), Prof. [Wei Jin](https://www.cs.emory.edu/~wjin30/) and Prof. [Yuxuan Liang](https://yuxuanliang.com/).
+I am a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC) and a research intern at Shanghai AI Lab. I was previously a research assistant at the National University of Singapore (NUS), supervised by Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) and Dr. [Kai Wang](https://kaiwang960112.github.io/).
 
+I am joining Peking Univ in 2025 Fall as a PhD student, supervised by Prof. Ning Ding and Prof. Bowen Zhou. I am also fortunate to work closely with Dr. Ganqu Cui and Prof. Yu Cheng.
 
 # News
 
